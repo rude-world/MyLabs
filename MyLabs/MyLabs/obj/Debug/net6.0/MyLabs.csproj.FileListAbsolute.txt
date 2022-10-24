@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\bin\Debug\net6.0\MyLabs.exe
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\bin\Debug\net6.0\MyLabs.deps.json
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\bin\Debug\net6.0\MyLabs.runtimeconfig.json
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\bin\Debug\net6.0\MyLabs.dll
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\bin\Debug\net6.0\MyLabs.pdb
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.dll
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\refint\MyLabs.dll
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.pdb
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\MyLabs\MyLabs\obj\Debug\net6.0\ref\MyLabs.dll
