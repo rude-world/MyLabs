@@ -9,7 +9,7 @@ namespace MyLabs
      interface ilabs
     {
             
-            static void Demo() //Демонстрация
+            static void DemoAsync() //Демонстрация
             {
 
             }

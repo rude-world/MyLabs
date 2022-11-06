@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Андрей\\Desktop\\MyLabs\\MyLabs\\MyLabs.csproj": {}
+    "D:\\Education\\MyLabs\\MyLabs\\MyLabs\\MyLabs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Андрей\\Desktop\\MyLabs\\MyLabs\\MyLabs.csproj": {
+    "D:\\Education\\MyLabs\\MyLabs\\MyLabs\\MyLabs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\MyLabs\\MyLabs\\MyLabs.csproj",
+        "projectUniqueName": "D:\\Education\\MyLabs\\MyLabs\\MyLabs\\MyLabs.csproj",
         "projectName": "MyLabs",
-        "projectPath": "C:\\Users\\Андрей\\Desktop\\MyLabs\\MyLabs\\MyLabs.csproj",
+        "projectPath": "D:\\Education\\MyLabs\\MyLabs\\MyLabs\\MyLabs.csproj",
         "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Андрей\\Desktop\\MyLabs\\MyLabs\\obj\\",
+        "outputPath": "D:\\Education\\MyLabs\\MyLabs\\MyLabs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\visual\\shared\\NuGetPackages"
@@ -44,6 +44,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Runtime.Serialization.Json": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

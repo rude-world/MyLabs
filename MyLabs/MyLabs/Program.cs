@@ -7,6 +7,7 @@ labs.Add(3);
 labs.Add(4);
 labs.Add(5);
 labs.Add(6);
+labs.Add(7);
 
 Console.WriteLine("Available labs:\n");
 foreach (var item in labs)
@@ -53,5 +54,11 @@ switch (number)
         Lab6.Description();
         Lab6.Demo();
         break;
-    
+    case 7:
+        Lab7.Id();
+        Lab7.Name();
+        Lab7.Description();
+        Lab7.Demo();
+        break;
+
 }
