@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyLabs.Classes
 {
-    internal class Lab3 : ilabs
+    public class Lab3 : Ilabs
     {
-        public static void Demo()
+        public  void Demo()
         {
-            Console.WriteLine("№1\n");
+            Console.WriteLine("\n№1\n");
             Console.WriteLine("С предусловием:\n");
             var i = 0;
             while (i<=100)
@@ -40,7 +40,7 @@ namespace MyLabs.Classes
                     Console.WriteLine(b);
                 }
             }
-            Console.WriteLine("№2\n");
+            Console.WriteLine("\n№2\n");
             int a = 0;
             for (int c=0; c <= 30; c++)
             {
@@ -50,7 +50,7 @@ namespace MyLabs.Classes
                 }
             }
             Console.WriteLine(a);
-            Console.WriteLine("№1, Повышенной сложности\n");
+            Console.WriteLine("\n№1, Повышенной сложности\n");
             Console.WriteLine("С предусловием:\n");
             i = 100;
             while (i >= 0)
@@ -80,7 +80,7 @@ namespace MyLabs.Classes
                     Console.WriteLine(b);
                 }
             }
-            Console.WriteLine("№2, Повышенной сложности:\n");
+            Console.WriteLine("\n№2, Повышенной сложности:\n");
             Console.WriteLine("Введите строку:");
             string s = Console.ReadLine();
             foreach (char d in s.ToCharArray())
@@ -88,19 +88,22 @@ namespace MyLabs.Classes
                 Console.WriteLine(d);
             }
         }
-        public static void Description()
+        public string Description()
         {
-            Console.WriteLine("Задания:\n№1 Для всех чисел в диапазоне [0; 100] вывести все числа, которые делятся нацело на число равное номеру по списку группы. Для первого варианта взять «–5». Решить, используя три цикла («с предусловием», «с постусловием» и «счетчик»).\n" +
+            
+            return "Задания:\n№1 Для всех чисел в диапазоне [0; 100] вывести все числа, которые делятся нацело на число равное номеру по списку группы. Для первого варианта взять «–5». Решить, используя три цикла («с предусловием», «с постусловием» и «счетчик»).\n" +
              "№2 Определить сумму всех нечетных чисел в диапазоне [0; 30]\n\nЗадания повышенной сложности:\n" +
-             "1№ Выполнить задание №1 рекурсивно.\n№2 Ввести строку с клавиатуры. Вывести ее посимвольно в столбик с помощью цикла foreach.\n");
+             "1№ Выполнить задание №1 рекурсивно.\n№2 Ввести строку с клавиатуры. Вывести ее посимвольно в столбик с помощью цикла foreach.\n";
         }
-        public static void Id()
+        public  int Id()
         {
-            Console.WriteLine("\nLab3\n");
+            
+            return 3;
         }
-        public static void Name() 
+        public  string Name() 
         {
-            Console.WriteLine("Заголовок - Циклы\n");
+           
+            return "Заголовок - Циклы\n";
         }
     }
 }

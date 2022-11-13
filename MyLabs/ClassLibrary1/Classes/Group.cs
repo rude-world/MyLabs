@@ -10,6 +10,7 @@ namespace MyLabs.Classes
     [DataContract]
     public class Group : Sudent
     {
+        public Group() { }
         public Group(string Name, int Age, string Sex, string Group, string Spesialisation, string VUZ) : base(Name, Age, Sex, Group, Spesialisation, VUZ)
         {
             
@@ -21,7 +22,7 @@ namespace MyLabs.Classes
             vuz = VUZ;
         }
         [DataMember]
-        public string name { get; set; }
+        string name { get; set; }
         [DataMember]
         int age { get; set; }
         [DataMember]
@@ -38,10 +39,7 @@ namespace MyLabs.Classes
             Console.WriteLine("\n" + name + "\t"+age + "\t" + sex + "\t" + group + "\t" + spesialisation + "\t" + vuz);
         }
 
-        public override string ToString()
-        {
-            return name;
-        }
+        
 
     }
 }

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "MyLabs/1.0.0": {
         "dependencies": {
+          "ClassLibrary1": "1.0.0",
           "System.Runtime.Serialization.Json": "4.3.0",
           "System.Text.Json": "6.0.6"
         },
@@ -363,6 +364,11 @@
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
         }
+      },
+      "ClassLibrary1/1.0.0": {
+        "runtime": {
+          "ClassLibrary1.dll": {}
+        }
       }
     }
   },
@@ -651,6 +657,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

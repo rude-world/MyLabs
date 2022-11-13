@@ -667,6 +667,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
       }
     }
   },
@@ -2967,10 +2977,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ClassLibrary1 >= 1.0.0",
       "System.Runtime.Serialization.Json >= 4.3.0",
       "System.Text.Json >= 6.0.6"
     ]
@@ -3007,7 +3023,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Education\\MyLabs\\MyLabs\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "D:\\Education\\MyLabs\\MyLabs\\ClassLibrary1\\ClassLibrary1.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

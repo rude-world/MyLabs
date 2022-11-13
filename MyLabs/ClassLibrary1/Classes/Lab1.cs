@@ -7,22 +7,22 @@ using System.Threading.Tasks;
 namespace MyLabs.Classes
 {
 
-    public class Lab1 : ilabs
+    public class Lab1 : Ilabs
     {
-        public static void Demo()
+        public void Demo()
         {
-            Console.WriteLine("№1\n");
+            Console.WriteLine("\n№1\n");
             double x = Math.Pow(2, 2) - Math.Pow(3, 3);
             double y = Math.Sqrt(Math.Pow(3, 4) - Math.Pow(2, 4));
             double c = (Math.Pow(3, 5) - Math.Pow(15, 2.5)) * -1;
             double d = Math.Sqrt(x / y + c);
             Console.WriteLine(d + "\n");
-            Console.WriteLine("№2\n");
+            Console.WriteLine("\n№2\n");
             Random Rnd = new Random();
             int a = Rnd.Next();
             int b = Rnd.Next();
             Console.WriteLine((Math.Pow(a, 2) + Math.Pow(b, 1 / 3)) / a + b + "\n");
-            Console.WriteLine("№3\n");
+            Console.WriteLine("\n№3\n");
             double i = 5.93576;
             int b1 = (int)i;
             double c1 = Math.Round(i);
@@ -39,17 +39,20 @@ namespace MyLabs.Classes
             Console.WriteLine(a11);
 
         }
-        public static void Description()
+        public  string Description()
         {
-            Console.WriteLine("Задания:\n№1 Вычислить\n№2 Сгенерировать 2 случайных целых числа a, b. Вычислить\n№3 Заполнить таблицу\n№4 Сгенерировать случайное десятичное число.\n");
+
+            return "Задания:\n№1 Вычислить\n№2 Сгенерировать 2 случайных целых числа a, b. Вычислить\n№3 Заполнить таблицу\n№4 Сгенерировать случайное десятичное число.\n";
         }
-        public static void Id()
+        public  int Id()
         {
-            Console.WriteLine("\nLab1\n");
+            
+            return 1;
         }
-        public static void Name() 
+        public  string Name() 
         {
-            Console.WriteLine("Заголовок - Арифметические операции. Классы Random и Math. Приведение числовых типов данных. Округление. Суффиксы и префиксы\n");
+            
+            return "Заголовок - Арифметические операции. Классы Random и Math. Приведение числовых типов данных. Округление. Суффиксы и префиксы\n";
         }
     }
 }

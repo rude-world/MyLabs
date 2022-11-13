@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyLabs.Classes
 {
-    public class Lab4 : ilabs
+    public class Lab4 : Ilabs
     {
-        public static void Demo()
+        public  void Demo()
         {
-            Console.WriteLine("№1\n");
+            Console.WriteLine("\n№1\n");
 
             int[] mass = new int[5];
             Random random = new Random();
@@ -20,7 +20,7 @@ namespace MyLabs.Classes
                 Console.Write(mass[i]+"\t");
             }
 
-            Console.WriteLine("№2\n");
+            Console.WriteLine("\n\n№2\n");
 
             string str = "awd 23 f 4 rg3 3";
             string[] strArr=str.Split(' ');
@@ -29,7 +29,7 @@ namespace MyLabs.Classes
                 Console.WriteLine(el);
             }
 
-            Console.WriteLine("№3\n");
+            Console.WriteLine("\n№3\n");
 
             Console.WriteLine("Сколько чисел будем сортировать?");
             int N = Convert.ToInt32(Console.ReadLine());
@@ -58,7 +58,7 @@ namespace MyLabs.Classes
                 Console.WriteLine(mas[i]);
             }
 
-            Console.WriteLine("№1, Повышенной сложности\n");
+            Console.WriteLine("\n№1, Повышенной сложности\n");
 
             string strt = "Мальчик не пошёл в поход, потому что пошёл дождь. Девочка пошла в магазин, но он был закрыт.";
             Console.WriteLine(strt+"\n");
@@ -70,19 +70,22 @@ namespace MyLabs.Classes
             }
 
         }
-        public static void Description()
+        public string Description()
         {
-            Console.WriteLine("Задания:\n№1 Сгенерировать массив размером n (указывается в коде). Заполнить его случайными целыми числами в диапазоне [0; 100] и вывести через знаки табуляции в строку\n" +
+            
+            return "Задания:\n№1 Сгенерировать массив размером n (указывается в коде). Заполнить его случайными целыми числами в диапазоне [0; 100] и вывести через знаки табуляции в строку\n" +
                 "№2 Ввести строку, содержащую пробелы. Разделить строку с использованием метода Split\n№3 Написать метод пузырьковой сортировки одномерного целочисленного массива. Оценить асимптотическую сложность алгоритма пузырьковой сортировки.\n" +
-                "\nЗадания повышенной сложности:\nВвести строку из двух предложений со знаками препинания. Создать список List<string> wordsList, в который записать все слова из предложения. Вывести список на экран в столбик.\n");
+                "\nЗадания повышенной сложности:\nВвести строку из двух предложений со знаками препинания. Создать список List<string> wordsList, в который записать все слова из предложения. Вывести список на экран в столбик.\n";
         }
-        public static void Id()
+        public  int Id()
         {
-            Console.WriteLine("\nLab4\n");
+           
+            return 4;
         }
-        public static void Name() 
+        public  string Name() 
         {
-            Console.WriteLine("Заголовок - Массивы. Строки\n");
+            
+            return "Заголовок - Массивы. Строки\n";
         }
     }
 }

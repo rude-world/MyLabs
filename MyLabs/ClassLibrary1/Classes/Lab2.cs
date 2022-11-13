@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyLabs.Classes
 {
-    public class Lab2 : ilabs
+    public class Lab2 : Ilabs
     {
-        public static void Demo()
+        public void Demo()
         {
-            Console.WriteLine("№1\n");
+            Console.WriteLine("\n№1\n");
 
             int number = 0;
 
@@ -157,19 +157,22 @@ namespace MyLabs.Classes
             }
 
         }
-        public static void Description()
+        public string Description()
         {
-            Console.WriteLine("Задания:\n№1 Ввести число в диапазоне [1; 7]. Проверить, является ли введенная информация числом. Проверить принадлежность диапазону. При наличии отклонений, вывести сообщение об ошибке. Согласно введенному числу вывести название дня недели. Решить задачу через if-else и через switch-case.\n" +
+            
+            return "Задания:\n№1 Ввести число в диапазоне [1; 7]. Проверить, является ли введенная информация числом. Проверить принадлежность диапазону. При наличии отклонений, вывести сообщение об ошибке. Согласно введенному числу вывести название дня недели. Решить задачу через if-else и через switch-case.\n" +
                 "№2 Ввести целое число. Если число делится на 3, вывести сообщение Buzz. Если число делится на 5 – вывести Fizz. Если число делится и на 3, и на 5, – вывести BuzzFizz.\n" +
-                "№3 Написать простейший консольный калькулятор(на +, –, *, /)\n");
+                "№3 Написать простейший консольный калькулятор(на +, –, *, /)\n";
         }
-        public static void Id()
+        public  int Id()
         {
-            Console.WriteLine("\nLab2\n");
+            
+            return 2;
         }
-        public static void Name() 
+        public  string Name() 
         {
-            Console.WriteLine("Заголовок - Условия. Операторы сравнения\n");
+            
+            return "Заголовок - Условия. Операторы сравнения\n";
         }
     }
 }

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyLabs.Classes
 {
-    public class Lab6 : ilabs
+    public class Lab6 : Ilabs
     {
-        public static void Demo()
+        public  void Demo()
         {
-            Console.WriteLine("№1\n");
+            Console.WriteLine("\n№1\n");
             Console.WriteLine("Факториал какого числа нужно посчитать?: ");
             int n = Convert.ToInt32(Console.ReadLine());
             int Fact(int n)
@@ -23,7 +23,7 @@ namespace MyLabs.Classes
             int factorial = Fact(n); 
             Console.WriteLine($"Факториал числа {n} = {factorial}\n");
 
-            Console.WriteLine("№2\n");
+            Console.WriteLine("\n№2\n");
 
             Console.WriteLine("Фибоначчи?: \n");
             int f = Convert.ToInt32(Console.ReadLine());
@@ -40,18 +40,21 @@ namespace MyLabs.Classes
             Console.WriteLine($"число Фибоначчи {f} = {fib}\n");
            
         }
-        public static void Description()
+        public string Description()
         {
-            Console.WriteLine("Задания:\n№1 Написать рекурсивную функцию вычисления факториала.\n№2 Написать рекурсивную процедуру вывода чисел Фибоначчи.\n\nЗадание повышенной сложности:\n" +
-                "1№ Вывести дерево файловой системы по указанной директории. Примечание: используйте класс DirectoryInfo и методы GetDirectories(path), GetFiles(path). Просмотр файловой структуры осуществляется рекурсивно!\n");
+
+            return "Задания:\n№1 Написать рекурсивную функцию вычисления факториала.\n№2 Написать рекурсивную процедуру вывода чисел Фибоначчи.\n\nЗадание повышенной сложности:\n" +
+                "1№ Вывести дерево файловой системы по указанной директории. Примечание: используйте класс DirectoryInfo и методы GetDirectories(path), GetFiles(path). Просмотр файловой структуры осуществляется рекурсивно!\n";
         }
-        public static void Id()
+        public  int Id()
         {
-            Console.WriteLine("\nLab6\n");
+           
+            return 6;
         }
-        public static void Name() 
+        public  string Name() 
         {
-            Console.WriteLine("Заголовок - Функции и процедуры\n");
+           
+            return "Заголовок - Функции и процедуры\n";
         }
     }
 }

@@ -30,3 +30,5 @@ D:\Education\MyLabs\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.genruntimeconfig.cache
 D:\Education\MyLabs\MyLabs\MyLabs\obj\Debug\net6.0\ref\MyLabs.dll
 D:\Education\MyLabs\MyLabs\MyLabs\bin\Debug\net6.0\System.Text.Json.dll
 D:\Education\MyLabs\MyLabs\MyLabs\obj\Debug\net6.0\MyLabs.csproj.CopyComplete
+D:\Education\MyLabs\MyLabs\MyLabs\bin\Debug\net6.0\ClassLibrary1.dll
+D:\Education\MyLabs\MyLabs\MyLabs\bin\Debug\net6.0\ClassLibrary1.pdb
