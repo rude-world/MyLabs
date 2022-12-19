@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "IValueLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IValueLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IValueLib.dll": {}
+        }
+      },
+      "ValuesLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IValueLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ValuesLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValuesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IValueLib/1.0.0": {
+      "type": "project",
+      "path": "../IValueLib/IValueLib.csproj",
+      "msbuildProject": "../IValueLib/IValueLib.csproj"
+    },
+    "ValuesLib/1.0.0": {
+      "type": "project",
+      "path": "../ValuesLib/ValuesLib.csproj",
+      "msbuildProject": "../ValuesLib/ValuesLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ValuesLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Андрей\\.nuget\\packages\\": {},
+    "D:\\visual\\shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\vs\\Converter-Converter.v.001\\Converter-Converter.v.001\\Converter\\ConverterLib\\ConverterLib.csproj",
+      "projectName": "ConverterLib",
+      "projectPath": "C:\\Users\\Андрей\\Desktop\\vs\\Converter-Converter.v.001\\Converter-Converter.v.001\\Converter\\ConverterLib\\ConverterLib.csproj",
+      "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Андрей\\Desktop\\vs\\Converter-Converter.v.001\\Converter-Converter.v.001\\Converter\\ConverterLib\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\visual\\shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Андрей\\Desktop\\vs\\Converter-Converter.v.001\\Converter-Converter.v.001\\Converter\\ValuesLib\\ValuesLib.csproj": {
+              "projectPath": "C:\\Users\\Андрей\\Desktop\\vs\\Converter-Converter.v.001\\Converter-Converter.v.001\\Converter\\ValuesLib\\ValuesLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

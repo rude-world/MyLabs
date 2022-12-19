@@ -1,0 +1,16 @@
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\bin\Debug\net6.0\PhysicValuesLib.deps.json
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\bin\Debug\net6.0\PhysicValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\bin\Debug\net6.0\PhysicValuesLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\refint\PhysicValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\ref\PhysicValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\bin\Debug\net6.0\Converter.exe
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\bin\Debug\net6.0\Converter.pdb
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\bin\Debug\net6.0\Converter.exe.config
+C:\Users\Андрей\Desktop\vs\Converter\PhysicValuesLib\obj\Debug\net6.0\PhysicValuesLib.csproj.CopyComplete

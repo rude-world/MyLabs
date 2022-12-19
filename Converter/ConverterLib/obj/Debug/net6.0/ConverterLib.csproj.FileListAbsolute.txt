@@ -1,0 +1,5 @@
+C:\Users\Андрей\Desktop\vs\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\vs\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\vs\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\vs\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.CoreCompileInputs.cache

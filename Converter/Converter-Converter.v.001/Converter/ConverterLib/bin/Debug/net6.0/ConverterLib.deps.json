@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConverterLib/1.0.0": {
+        "dependencies": {
+          "ValuesLib": "1.0.0"
+        },
+        "runtime": {
+          "ConverterLib.dll": {}
+        }
+      },
+      "IValueLib/1.0.0": {
+        "runtime": {
+          "IValueLib.dll": {}
+        }
+      },
+      "ValuesLib/1.0.0": {
+        "dependencies": {
+          "IValueLib": "1.0.0"
+        },
+        "runtime": {
+          "ValuesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConverterLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IValueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValuesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

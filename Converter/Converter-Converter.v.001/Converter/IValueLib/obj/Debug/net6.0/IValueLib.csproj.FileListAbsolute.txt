@@ -1,0 +1,12 @@
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\bin\Debug\net6.0\IValueLib.deps.json
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\bin\Debug\net6.0\IValueLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\bin\Debug\net6.0\IValueLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\IValueLib.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\IValueLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\IValueLib.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\IValueLib.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\IValueLib.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\IValueLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\refint\IValueLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\IValueLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\IValueLib\obj\Debug\net6.0\ref\IValueLib.dll

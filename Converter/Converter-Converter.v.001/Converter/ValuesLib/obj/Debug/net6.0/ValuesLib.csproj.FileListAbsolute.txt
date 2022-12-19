@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\bin\Debug\net6.0\ValuesLib.deps.json
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\bin\Debug\net6.0\ValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\bin\Debug\net6.0\ValuesLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\bin\Debug\net6.0\IValueLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\bin\Debug\net6.0\IValueLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.csproj.CopyComplete
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\refint\ValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ValuesLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ValuesLib\obj\Debug\net6.0\ref\ValuesLib.dll
