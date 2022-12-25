@@ -1,0 +1,17 @@
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\bin\Debug\net6.0\ConverterLib.deps.json
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\bin\Debug\net6.0\ConverterLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\bin\Debug\net6.0\ConverterLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\bin\Debug\net6.0\IValueLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\bin\Debug\net6.0\ValuesLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\bin\Debug\net6.0\ValuesLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\bin\Debug\net6.0\IValueLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.CopyComplete
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\refint\ConverterLib.dll
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ConverterLib.pdb
+C:\Users\Андрей\Desktop\vs\Converter-Converter.v.001\Converter-Converter.v.001\Converter\ConverterLib\obj\Debug\net6.0\ref\ConverterLib.dll

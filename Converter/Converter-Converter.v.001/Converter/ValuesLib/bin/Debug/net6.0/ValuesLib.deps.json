@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ValuesLib/1.0.0": {
+        "dependencies": {
+          "IValueLib": "1.0.0"
+        },
+        "runtime": {
+          "ValuesLib.dll": {}
+        }
+      },
+      "IValueLib/1.0.0": {
+        "runtime": {
+          "IValueLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValuesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IValueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
